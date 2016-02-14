@@ -113,3 +113,14 @@ body{
     left: 20%;
     margin-left: 40px;
 }
+
+.alert {
+    max-height: 50px;
+}
+
+#carouselButtons{
+    bottom: 0px;
+    right:0px;
+    position: absolute;
+
+}
